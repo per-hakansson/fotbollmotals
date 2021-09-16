@@ -1,7 +1,7 @@
 {
   "name": "fotboll-mot-als",
   "version": "0.1.0",
-  "homepage": "per-hakansson.github.io",
+  "homepage": "http://per-hakansson.github.io/fotbollmotals",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
