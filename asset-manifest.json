@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fotbollmotals/static/css/main.a617e044.chunk.css",
+    "main.js": "/fotbollmotals/static/js/main.28092576.chunk.js",
+    "main.js.map": "/fotbollmotals/static/js/main.28092576.chunk.js.map",
+    "runtime-main.js": "/fotbollmotals/static/js/runtime-main.93017516.js",
+    "runtime-main.js.map": "/fotbollmotals/static/js/runtime-main.93017516.js.map",
+    "static/js/2.a4710017.chunk.js": "/fotbollmotals/static/js/2.a4710017.chunk.js",
+    "static/js/2.a4710017.chunk.js.map": "/fotbollmotals/static/js/2.a4710017.chunk.js.map",
+    "static/js/3.9ff7aca2.chunk.js": "/fotbollmotals/static/js/3.9ff7aca2.chunk.js",
+    "static/js/3.9ff7aca2.chunk.js.map": "/fotbollmotals/static/js/3.9ff7aca2.chunk.js.map",
+    "index.html": "/fotbollmotals/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/fotbollmotals/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a4710017.chunk.js.LICENSE.txt": "/fotbollmotals/static/js/2.a4710017.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93017516.js",
+    "static/js/2.a4710017.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.28092576.chunk.js"
+  ]
+}
